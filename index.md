@@ -47,21 +47,24 @@
 
 <h4 class="collapsible" onclick="toggleVisibility('about')"><span id="about-icon" class="toggle-symbol">+</span> about</h4>
 <div id="about" style="display: none;">
+    <p> </p>
     <p>my name is Rithika (/ˈɹɪθɪkə/). </p>
     <p> I'm a 23 year old biomedical (MS) / electronics (BS) engineer with an interest in biomedical signal analysis. I'm from Hyderabad, have lived and loved Bangalore, and now reside in Minneapolis. </p>
     <p> I'm currently a graduate student at the <span class = "lb"> University of Minnesota, </span> working with magnetic resonance imaging. I'm also very interested in cardiac signals and rhythm management as of late. </p>
     <p> outside of geeking out over physiology: I like swimming, hiking, movies and wildlife/landscape photography.</p>
+    <p> </p>
 </div>
 
 <h4 class="collapsible" onclick="toggleVisibility('phys-posting')"><span id="phys-posting-icon" class="toggle-symbol">+</span> phys-posting</h4>
 <div id="phys-posting" style="display: none;">
+    <p> </p>
     <p>    wigger's diagram </p>
     <p>    what the flow? </p>
     <p>    what is pain? </p>
     <p>    messenger system </p>
     <p>    women, women, women </p>
     <p>    ICDs are really cool</p>
-
+    <p> </p>
 </div>
 
 <h4 class="collapsible" onclick="toggleVisibility('regular-musings')"><span id="regular-musings-icon" class="toggle-symbol">+</span> regular musings</h4>
@@ -74,9 +77,11 @@
 
 <h4 class="collapsible" onclick="toggleVisibility('socials')"><span id="socials-icon" class="toggle-symbol">+</span> socials</h4>
 <div id="socials" style="display: none;">
+    <p> </p>
         <p>    email me: rithikavd6@gmail.com</p>
         <p> github: <a href="https://github.com/ritvd">ritvd</a></p>
         <p> linkedin: <a href="https://www.linkedin.com/in/rithikavd/">rithikavd</a></p>
+        <p> </p>
 
 </div>
 
