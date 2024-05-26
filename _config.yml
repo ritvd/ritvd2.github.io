@@ -1,11 +1,13 @@
+title: iced water
+description: rithika
+theme: noir-theme
+
 exclude:
   - node_modules
   - script
 
 sass:
   style: :compressed
-
-theme: noir-theme
 
 github:
   private: false
@@ -15,6 +17,3 @@ github:
     branch: "master"
     path: "/"
   repository_url: "https://github.com/pages-themes/primer"
-  
-title: iced water
-description: rithika
