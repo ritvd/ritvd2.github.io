@@ -1,6 +1,6 @@
 title: iced water
 description: rithika
-theme: noir-theme
+theme: jekyll-theme-primer
 
 exclude:
   - node_modules
